@@ -1,0 +1,101 @@
+[ {
+  "id" : 7,
+  "name" : "ffd",
+  "author" : "fff",
+  "studentDetails" : null
+}, {
+  "id" : 67,
+  "name" : "vvv",
+  "author" : "fggf",
+  "studentDetails" : null
+}, {
+  "id" : 12,
+  "name" : "sdf",
+  "author" : "sdd",
+  "studentDetails" : null
+}, {
+  "id" : 1,
+  "name" : "sdd",
+  "author" : "dff",
+  "studentDetails" : null
+}, {
+  "id" : 23,
+  "name" : "dds",
+  "author" : "err",
+  "studentDetails" : null
+}, {
+  "id" : 0,
+  "name" : null,
+  "author" : null,
+  "studentDetails" : [ {
+    "id" : 6,
+    "name" : "shruti",
+    "age" : 34,
+    "address" : "dff"
+  } ]
+}, {
+  "id" : 0,
+  "name" : null,
+  "author" : null,
+  "studentDetails" : [ {
+    "id" : 6,
+    "name" : "shruti",
+    "age" : 34,
+    "address" : "dff"
+  } ]
+}, {
+  "id" : 0,
+  "name" : null,
+  "author" : null,
+  "studentDetails" : [ {
+    "id" : 6,
+    "name" : "shruti",
+    "age" : 34,
+    "address" : "dff"
+  } ]
+}, {
+  "id" : 0,
+  "name" : null,
+  "author" : null,
+  "studentDetails" : [ null ]
+}, {
+  "id" : 0,
+  "name" : null,
+  "author" : null,
+  "studentDetails" : [ {
+    "id" : 6,
+    "name" : "shruti",
+    "age" : 34,
+    "address" : "dff"
+  } ]
+}, {
+  "id" : 0,
+  "name" : null,
+  "author" : null,
+  "studentDetails" : [ {
+    "id" : 1,
+    "name" : "abc",
+    "age" : 12,
+    "address" : "asd"
+  }, {
+    "id" : 1,
+    "name" : "abc",
+    "age" : 34,
+    "address" : "dfg"
+  }, {
+    "id" : 6,
+    "name" : "shruti",
+    "age" : 34,
+    "address" : "dff"
+  }, {
+    "id" : 1,
+    "name" : "dedf",
+    "age" : 45,
+    "address" : "dffg"
+  }, {
+    "id" : 40,
+    "name" : "sdd",
+    "age" : 43,
+    "address" : "dfg"
+  } ]
+} ]
